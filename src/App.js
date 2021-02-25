@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Courtneys Site Now!</h1>
+      <h1>Courtney's Site Now!</h1>
     
     </main>
   );
